@@ -24,7 +24,7 @@
 
 /* nav-box1 */
 .nav-box1{
-  background-image: url("/img/amazon_logo.png");
+  background-image: url("../img/amazon_logo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
